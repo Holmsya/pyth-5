@@ -1,0 +1,11 @@
+num1 = int(input("Введите первое число: "))
+num2 = int(input("Введите второе число: "))
+
+print()
+print("Сумма:", num1 + num2)
+print("Вычитание:", num1 - num2)
+print("Умножение:", num1 * num2)
+print("Деление:", num1 / num2)
+print("Целочисленное деление:", num1 // num2)
+print("Остаток от деления:", num1 % num2)
+print("Возведение в степень:", num1 ** num2) 
